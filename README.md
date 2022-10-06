@@ -8,5 +8,5 @@
  
  ## My Github Stats
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivazquezCB&theme=navy-gear)](https://git.io/streak-stats) ![ivazquezCB's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivazquezCB&show_icons=true&theme=solarized-light)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivazquezCB&theme=navy-gear)](https://git.io/streak-stats) 
  
