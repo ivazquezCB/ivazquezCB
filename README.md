@@ -1,4 +1,4 @@
-# Hi, I am Isabel Vazquez 👋. ![](https://komarev.com/ghpvc/?username=ivazquezCB&style=flat-square&color=blueviolet&label=Profile+Visitors)
+# Hi, I am Isabel Vazquez 👋
 
 #### I am a senior software engineer at CloudBees with a specialization in frontend. I continue to take joy in delighting users through code and expanding my technical knowledge.
 
