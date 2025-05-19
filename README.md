@@ -4,7 +4,7 @@ I am a senior software engineer at CloudBees with a specialization in frontend.
 
 I continue to take joy in delighting users through code and expanding my technical knowledge.
 
-I'm currently focused on accessibility ♿ and end-to-end testing 🧪.
+I'm currently focused on cross-team features and stabilization.
 
 ## Technology Stack
 
